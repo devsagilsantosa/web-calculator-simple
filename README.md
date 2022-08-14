@@ -1,1 +1,3 @@
-# web-calculator-simple
+## web-calculator-simple
+
+- Using local storage
